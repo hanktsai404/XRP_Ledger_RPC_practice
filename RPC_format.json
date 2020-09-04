@@ -1,0 +1,43 @@
+{
+    "account_info": {
+        "method": "account_info",
+        "params": [
+            {
+                "account": null,
+                "strict": true,
+                "ledger_index": "current",
+                "queue": true
+            }
+        ]
+    },
+
+    "fee":{
+        "method": "fee",
+        "params": [{}]
+    },
+
+    "ledger_closed":{
+        "method": "ledger_closed",
+        "params": [{}]
+    },
+
+    "submit":{
+        "method": "submit",
+        "params": [
+            {
+                "tx_blob":null
+            }
+        ]
+    },
+
+    "sign":{
+        "method": "sign",
+        "params":[
+            {
+                "offline": false,
+                "secret": null,
+                "tx_json": null
+            }
+        ]
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "testnet_url":"https://s.altnet.rippletest.net:51234/",
+    "key1":{
+        "address":"rsk6SZjgCZk3358HxnEsXsVxe5LPdDcrNw",
+        "secret":"ssQXtwtmhoiKQfBEwAmjuqEuiXbHL"
+    },
+    "key2":{
+        "address":"rwY4R11PBPf1zxsFE4JDzAbxmRsL4qJDEi",
+        "secret":"ssHi5QJyv8UiQFk7odpLmELWCnAPK"
+    }
+}

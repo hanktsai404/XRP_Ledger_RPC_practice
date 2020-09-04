@@ -1,0 +1,11 @@
+{
+    "payment":{
+        "TransactionType": "Payment",
+        "Account": null,
+        "Destination": null,
+        "Amount": null,
+        "Fee": null,
+        "LastLedgerSequence": null,
+        "Sequence": null
+    }
+}
